@@ -4,7 +4,11 @@
 A project that enables self-driving drug delivery using Turtlebot 3 and face recognition using OpenCV
 
 ## 시연 동영상
-
+<figure>
+  <p align="center">
+    <img src="https://github.com/tuuktuc86/ROS_Medication_Delivery_Project/blob/main/images/GIFMaker_me.gif" width = "500">
+  </p>
+</figure>
 
 ## 발표 ppt
 <figure>
