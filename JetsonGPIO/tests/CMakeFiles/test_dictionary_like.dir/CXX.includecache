@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosmosclub/Desktop/JetsonGPIO/tests/TestUtility.cpp
+private/TestUtility.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/private/TestUtility.h
+iostream
+-
+stdexcept
+-
+
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/test_dictionary_like.cpp
+private/DictionaryLike.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/private/DictionaryLike.h
+private/TestUtility.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/private/TestUtility.h
+iostream
+-
+map
+-
+sstream
+-
+vector
+-
+
+include/private/DictionaryLike.h
+map
+-
+string
+-
+
+include/private/TestUtility.h
+functional
+-
+sstream
+-
+string
+-
+vector
+-
+

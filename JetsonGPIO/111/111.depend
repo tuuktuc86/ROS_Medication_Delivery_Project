@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695043052 source:/home/cosmosclub/Desktop/JetsonGPIO/111/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

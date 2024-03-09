@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosmosclub/Desktop/JetsonGPIO/tests/TestUtility.cpp
+private/TestUtility.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/private/TestUtility.h
+iostream
+-
+stdexcept
+-
+
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/test_is_iterable.cpp
+private/TestUtility.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/private/TestUtility.h
+JetsonGPIO/TypeTraits.h
+/home/cosmosclub/Desktop/JetsonGPIO/tests/unit-tests/JetsonGPIO/TypeTraits.h
+vector
+-
+string
+-
+set
+-
+
+include/JetsonGPIO/TypeTraits.h
+cstdio
+-
+iterator
+-
+type_traits
+-
+
+include/private/TestUtility.h
+functional
+-
+sstream
+-
+string
+-
+vector
+-
+

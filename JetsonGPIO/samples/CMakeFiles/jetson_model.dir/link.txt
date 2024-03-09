@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/jetson_model.dir/jetson_model.cpp.o -o jetson_model  -Wl,-rpath,/home/cosmosclub/Desktop/JetsonGPIO ../libJetsonGPIO.so.1.2.4 -lpthread 
