@@ -27,9 +27,6 @@ A project that enables self-driving drug delivery using Turtlebot 3 and face rec
      - 고령자가 기기를 사용할 때에는 큰 글씨, 직관적인 내용으로 UI/UX 구현<br>
 
 
-## 사용 라이브러리
-- 추후 업데이트
-
 ## 시연 동영상
 <figure>
   <p align="center">
